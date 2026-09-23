@@ -46,7 +46,7 @@
 
                 <div class="about-info">
 
-                    <span>📍 Tuguegarao City, Cagayan</span>
+                    <span>📍 Alibago, Enrile, Cagayan</span>
 
                     <span>🎓 BS Computer Engineering</span>
 
