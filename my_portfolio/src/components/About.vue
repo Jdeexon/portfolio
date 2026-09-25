@@ -1,3 +1,4 @@
+
 <template>
     <section id="about" class="about">
 
@@ -6,9 +7,11 @@
             <!-- Personal Photo -->
             <div class="about-photo">
 
-                <div class="photo-placeholder">
-                    YOUR PHOTO
-                </div>
+                <img
+                    src="/images/about-photo.jpg"
+                    alt="John Edison Baccay"
+                    class="profile-photo"
+                />
 
                 <div class="about-quote">
                     <p>
@@ -58,7 +61,7 @@
 
                     <span>🌱 Lifelong Learner</span>
 
-                    <span>🤝 Servant Leader</span>
+                    <span>🤝 Amiable</span>
 
                 </div>
 
@@ -155,21 +158,19 @@
     position: relative;
 }
 
-.photo-placeholder {
-    height: 280px;
+.profile-photo {
+    display: block;
+    width: 100%;
+    height: 360px;
+
+    object-fit: cover;
+    object-position: center 25%;
+    transform: scale(1.15);
 
     border: 1px solid #1c344a;
     border-radius: 0.75rem;
 
     background: #0b1825;
-
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    color: #aebdca;
-    font-size: 0.8rem;
-    letter-spacing: 0.1rem;
 }
 
 .about-quote {
