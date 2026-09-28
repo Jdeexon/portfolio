@@ -3,7 +3,7 @@
     <section id="experience" class="journey">
         <div class="journey-container">
             <div class="section-heading">
-                <p class="section-label">▌ EXPERIENCE & EDUCATION</p>
+                <p class="section-label">EDUCATION</p>
                 <h2>My Journey</h2>
             </div>
 
@@ -46,12 +46,12 @@
                 <article class="timeline-item">
                     <span class="timeline-dot"></span>
 
-                    <p class="timeline-date">2023 – Present</p>
+                    <p class="timeline-date">Started - 2023</p>
 
                     <div class="timeline-content">
                         <h3>BS Computer Engineering</h3>
                         <p class="timeline-place">
-                            Cagayan State University
+                            Cagayan State University, Carig Campus
                         </p>
                         <p class="timeline-location">
                             Tuguegarao City
@@ -63,7 +63,7 @@
                 <article class="timeline-item">
                     <span class="timeline-dot"></span>
 
-                    <p class="timeline-date">2024 – 2025</p>
+                    <p class="timeline-date">Month of May - June 2026</p>
 
                     <div class="timeline-content">
                         <h3>OJT – Help Desk Support</h3>

@@ -36,13 +36,13 @@
 
                 <p class="about-description">
                     I'm a Computer Engineering student who enjoys
-                    understanding how technology works—from software
+                    understanding how technology works from software
                     and databases to embedded systems and networks.
                 </p>
 
                 <p class="about-description">
                     My interests span web development, embedded systems,
-                    databases, and emerging technologies. I enjoy learning
+                    databases, networks, and emerging technologies. I enjoy learning
                     by building, experimenting, solving problems, and
                     turning ideas into practical systems.
                 </p>
