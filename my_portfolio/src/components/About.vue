@@ -23,7 +23,7 @@
             </div>
 
 
-            <!-- About Content -->
+           
             <div class="about-content">
 
                 <p class="section-label">

@@ -5,7 +5,7 @@
 
             <div class="contact-layout">
 
-                <!-- LEFT: CONTACT INTRODUCTION -->
+               
                 <div class="contact-main">
 
                     <div class="contact-heading">

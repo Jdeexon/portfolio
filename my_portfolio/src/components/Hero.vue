@@ -31,7 +31,7 @@
                         <span aria-hidden="true">→</span>
                     </a>
 
-                    <a href="/resume.pdf" class="btn btn-secondary">
+                    <a href="/resume_edison.docx" class="btn btn-secondary">
                         Download CV
                     </a>
                 </div>

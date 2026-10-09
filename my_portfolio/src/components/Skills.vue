@@ -2,7 +2,7 @@
     <section id="skills" class="skills">
         <div class="skills-container">
 
-            <!-- SECTION HEADER -->
+          
             <div class="skills-header">
                 <div>
                     <p class="section-label">▌ SKILLS</p>
